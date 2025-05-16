@@ -1,7 +1,6 @@
 ---
-date: '2'
+date: '2024-06-05'
 title: 'Mitre Att&ck Framework Scraper'
-cover: './mitreScraper.png'
 github: 'https://github.com/grealyve/mitre-cti-scraper'
 external: 'https://github.com/grealyve/mitre-cti-scraper'
 tech:
